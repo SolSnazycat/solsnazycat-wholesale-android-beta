@@ -1,0 +1,34 @@
+name: Wholesale Android beta bug
+description: Report a problem with the wholesale Android beta.
+title: "[Beta bug] "
+body:
+  - type: markdown
+    attributes:
+      value: Use test data only. Remove account details, addresses, order numbers, passwords, and payment information from text and screenshots.
+  - type: input
+    id: device
+    attributes:
+      label: Phone model, Android version, and app version
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: App mode
+      options:
+        - Browser mode
+        - Embedded mode
+        - Unsure
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the screen or feature and any exact error message.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
