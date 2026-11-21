@@ -6,7 +6,7 @@ Try the Android app for [SolSnazycat Wholesale](https://wholesale.solsnazycat.ca
 
 [Download the v0.1.0 beta APK](https://github.com/SolSnazycat/solsnazycat-wholesale-android-beta/releases/download/v0.1.0-beta/SolSnazycat-Wholesale-Beta-v0.1.0.apk) · [Read the release notes](https://github.com/SolSnazycat/solsnazycat-wholesale-android-beta/releases/tag/v0.1.0-beta)
 
-The repository is currently private. Sign in to GitHub with an account that has repository access to download the APK or submit feedback.
+Anyone can download the APK. A GitHub account is required to file an issue.
 
 ## Report a bug or suggest an improvement
 
